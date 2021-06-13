@@ -63,9 +63,5 @@ iOS news app in the style of Apollo, Apple News, Axios, BBC, CNN, Facebook, Face
 
 ## Contact
 
-- [github.com/dkhamsing](https://github.com/dkhamsing)
-- [twitter.com/dkhamsing](https://twitter.com/dkhamsing)
-
-## License
-
-This project is available under the MIT license. See the [LICENSE](LICENSE) file for more info.
+- [github.com/navneetkhandelwal](https://github.com/navneetkhandelwal)
+- mail me at navneetgpt3636@gmail.com
