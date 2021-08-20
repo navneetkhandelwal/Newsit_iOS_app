@@ -34,7 +34,6 @@ iOS news app in the style of Apollo, Apple News, Axios, BBC, CNN, Facebook, Face
 ## Requirements
 
 - iOS 14
-- tvOS 13
 
 ## Credits
 
